@@ -15,7 +15,6 @@ This is a basic responsive website created using **HTML** and **CSS** as part of
 ## Features
 
 - Clean UI with dark background
-- Fully responsive layout
 - Login form with input styling
 - Social media icons aligned and styled
 - Uses GitHub Pages for hosting
